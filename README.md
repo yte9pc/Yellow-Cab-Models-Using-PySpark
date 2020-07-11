@@ -1,4 +1,4 @@
-# YellowCabUsingPySpark
+# Yellow Cab Models Using PySpark
 ML model for 2019 Yellow Cab payment type and tip amount using PySpark
 # Data
 - Data can be found and downloaded from
